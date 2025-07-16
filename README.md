@@ -81,13 +81,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-
-## <a name="links">🔗 Links</a>
-
-- [Live Website](https://stately-babka-6cd88d.netlify.app/)
-
-## <a name="more">🚀 More</a>
-
-- Feel free to give it a try
-
